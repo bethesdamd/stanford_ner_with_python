@@ -1,4 +1,4 @@
-## Instructions for running the Stanford NER software as a server and then reaching it via Python.
+### Instructions for running the Stanford NER software as a server and then reaching it via Python.
 
 1. Download Stanford NER from here: http://nlp.stanford.edu/software/CRF-NER.shtml .  I used version 3.4
 2. Unpack it
